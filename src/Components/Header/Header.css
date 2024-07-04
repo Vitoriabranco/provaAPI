@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 10vh;
+    background-color: rgb(104, 147, 196);
+    justify-content: space-around;
+}
+
+.header img{
+    max-width: 150px;
+}
+
+.header p{
+    color: rgb(4, 37, 75);
+}

@@ -1,0 +1,15 @@
+.club{
+    flex-direction: row;
+    display: flex;
+    margin: 10px;
+}
+
+.club img{
+    margin-right: 10px;
+}
+
+.error p{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+}
